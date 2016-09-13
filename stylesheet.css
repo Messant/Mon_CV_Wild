@@ -1,0 +1,115 @@
+html{
+	background-color: white;
+	min-width: 1343px;
+	max-width: 1300px;
+}
+body{
+	margin: 50px 20px 50px 40px;
+	border: 1px solid grey;
+	padding-left: 100px 50px 100px 50px;
+	background-color: rgb(104,187,285);
+	height: auto;
+	width: auto;
+}
+
+#header{
+	margin: 70px 50px 10px 50px;
+	border: 1px solid grey;
+	padding-left: 50px;
+	background-color: rgb(59,165,208);
+	height: 150px;
+	
+}
+
+#container{
+	margin: 0px 50px 30px 50px;
+	border: 1px solid grey;
+	height: 950px;
+	width: auto;
+	background-color: rgb(59,165,208);
+	
+}
+
+#left-box{
+	margin: 50px 20px 0px 20px;
+	border: 1px solid grey;
+	float: left;
+	width: auto;
+	padding: 40px 10px 10px 30px;
+	height: 820px;
+	background-color: rgb(9,30,45);
+	color: white;
+}
+
+#right-box{
+	margin: 50px 20px 0px 0px;
+	border: 1px solid grey;
+	float:right;
+	width: 800px;
+	height: 870px;
+	background-color: rgb(9,30,45);
+}
+
+#experiences-box{
+	margin: 100px 50px 10px 50px;
+	border: 1px solid grey;
+	padding: 10px 10px 10px 10px;
+	background-color: white;
+}
+
+
+#studies-box{
+	margin-left: 50px;
+	margin-right: 50px;
+	border: 1px solid grey;
+	padding: 10px 10px 10px 20px;
+	background-color: white;
+}
+
+.experience{
+	margin: 10px 10px 10px 10px;
+	border: 1px solid grey;
+	border: 1px solid grey;
+	padding: 10px 10px 10px 10px;
+	background-color: rgb(7,41,68);
+
+}
+
+.study{
+	border: 1px solid grey;
+	padding: 10px 10px 10px 10px;
+	margin-bottom: 10px;
+	background-color: rgb(7,41,68);
+}
+
+#footer{
+	margin: 0px 50px 30px 50px;
+	border: 1px solid grey;
+	padding: 10px 10px 10px 10px;
+	background-color: rgb(59,165,208);
+	height: 120px;
+}
+
+#left-box p{
+	padding: 0px 20px 50px 0px;
+}
+
+#footer p{
+	padding-left: 40px;
+	padding-top: 30px;
+}
+
+h1{
+	padding-top: 30px;
+}
+
+h2{
+	padding: 5px 0px 5px 0px;
+}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	position: center;
+}
